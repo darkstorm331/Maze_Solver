@@ -27,3 +27,5 @@ The program will mark out the route to the end with 'X' characters like:
 1 0 1 E 1
 
 1 1 1 1 1
+
+The 'Test Mazes' folder has a couple of example mazes to test the program with. Provide a file path to the maze file during execution to see the solution. E.g. MBrand_MazeSolver.exe "C:\input.txt"
